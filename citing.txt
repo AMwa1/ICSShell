@@ -1,0 +1,30 @@
+I have to make a whole seperate file containing citations of learning resources I used. C is hard.
+
+strtok():
+https://stackoverflow.com/questions/21097253/how-does-the-strtok-function-in-c-work
+https://www.geeksforgeeks.org/strtok-strtok_r-functions-c-examples/
+https://stackoverflow.com/questions/3889992/how-does-strtok-split-the-string-into-tokens-in-c
+
+getting around "expression must be a modifiable lvalue" error:
+https://stackoverflow.com/questions/6008733/expression-must-be-a-modifiable-l-value
+
+trigraphs (the ??!??! things you see):
+https://stackoverflow.com/questions/7825055/what-does-the-operator-do-in-c?rq=1
+
+code for the ld command:
+https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcurrentdirectory
+https://learn.microsoft.com/en-us/windows/win32/fileio/changing-the-current-directory
+https://stackoverflow.com/questions/612097/how-can-i-get-the-list-of-files-in-a-directory-using-c-or-c
+https://learn.microsoft.com/en-us/windows/win32/fileio/listing-the-files-in-a-directory?redirectedfrom=MSDN
+
+console text color:
+https://stackoverflow.com/questions/8765938/colorful-text-using-printf-in-c
+
+get username and computer name:
+https://stackoverflow.com/questions/11587426/get-current-username-in-c-on-windows
+https://stackoverflow.com/questions/27914311/get-computer-name-and-logged-user-name
+
+bsod:
+https://stackoverflow.com/questions/7034592/create-bsod-from-user-mode
+http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FError%2FNtRaiseHardError.html
+https://github.com/AgnivaMaity/NtRaiseHardError-Example/blob/main/NtRaiseHardError.cpp
